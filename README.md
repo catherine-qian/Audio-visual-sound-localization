@@ -3,13 +3,19 @@
 source code for the ICASSP2021 paper：“Multi-target DoA Estimation with an Audio-visual Fusion Mechanism”
 
 1. Clone this repository 
+
    git clone https://github.com/catherine-qian/Audio-visual-sound-localization.git
 
-2. Download the extracted features from https://nusu-my.sharepoint.com/personal/e0675871_u_nus_edu/Documents/Features
+2. Download the extracted features from
+   
+   https://nusu-my.sharepoint.com/personal/e0675871_u_nus_edu/Documents/Features
+   
    and put the features under data/
+   
    (you may specify the datapath in dataread.py)
 
 3. Run the following command to get the results
+
    python main_sslr.py -model 'MLP3'
 
 
