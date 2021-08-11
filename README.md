@@ -23,7 +23,8 @@ If you use this code, please cite:
    and put the features under data/
    (you may specify the datapath in dataread.py)
 
-3. Run python main_sslr.py -model 'MLP3' to get the results
+3. Run the following command to get the results
+   python main_sslr.py -model 'MLP3'
 
 
 
