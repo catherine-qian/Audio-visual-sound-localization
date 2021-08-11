@@ -1,0 +1,6 @@
+[]
+experiments - xinyuan
+cpu
+here new model
+prepare the data! 
+/Users/xinyuan/Documents/NUS/Research/Data/sslrdata/
