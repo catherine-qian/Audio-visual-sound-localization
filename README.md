@@ -14,7 +14,10 @@ source code for the ICASSP2021 paper：“Multi-target DoA Estimation with an Au
 
 
 ---------------------------------------
-If you use this code, please cite:
+If you use this code
+
+please cite:
+
 @inproceedings{qian2021multi,
   title={Multi-target DoA Estimation with an Audio-visual Fusion Mechanism},
   author={Qian, Xinyuan and Madhavi, Maulik and Pan, Zexu and Wang, Jiadong and Li, Haizhou},
