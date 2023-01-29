@@ -8,7 +8,7 @@ source code for the ICASSP2021 paper：“Multi-target DoA Estimation with an Au
 
 2. Download the extracted features from
    
-   https://nusu-my.sharepoint.com/personal/e0675871_u_nus_edu/Documents/Features
+   https://drive.google.com/drive/folders/1wDa3MNqVcYJ76uV2SQR1ZsaOzQ7fpDo_?usp=share_link
    
    and put the features under data/
    
