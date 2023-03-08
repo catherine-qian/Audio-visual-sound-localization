@@ -6,7 +6,7 @@ source code for the ICASSP2021 paper：“Multi-target DoA Estimation with an Au
 
    git clone https://github.com/catherine-qian/Audio-visual-sound-localization.git
 
-2. Download the extracted features from
+2. Download the extracted features (feature extraction source code) from
    
    https://drive.google.com/drive/folders/1wDa3MNqVcYJ76uV2SQR1ZsaOzQ7fpDo_?usp=share_link
    
